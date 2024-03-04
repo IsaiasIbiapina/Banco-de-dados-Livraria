@@ -10,12 +10,16 @@ Banco de dados MySQL
 Criação dos scripts para:
 
 1 – Trazer todos os dados.
+
+
 ![TODOS OS DADOS](https://github.com/IsaiasIbiapina/Banco-de-dados-Livraria/assets/115105114/7a41e781-8181-4431-ada2-ffb45e35d16b)
 
 
 
 
 2 – Trazer o nome do livro e o nome da editora.
+
+
 ![image](https://github.com/IsaiasIbiapina/Banco-de-dados-Livraria/assets/115105114/c5398934-61b1-4182-9150-5d1a2f9a47b9)
 
 
